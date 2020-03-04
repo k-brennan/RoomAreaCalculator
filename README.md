@@ -17,4 +17,7 @@ For Windows Users-
 
 Run the startup.bat file.
 
-Iinput the Length and Width to get your RoomArea Calculations.
+Input the Length and Width to get your RoomArea Calculations.
+
+
+In file Explorer where the download is located, fire up command prompt and run ./startup. and whichever file type needed for the operating system you are running the application on.
