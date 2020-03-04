@@ -6,11 +6,15 @@ First download this to your local machine, to wherever you choose to have it sav
 
 For Linux Users-
 
-Run the startup.sh file
+
+Run the startup.sh file.
+
 Input the Length and Width to get your RoomArea Calculations.
 
 
 For Windows Users-
 
-Run the startup.bat file
+
+Run the startup.bat file.
+
 Iinput the Length and Width to get your RoomArea Calculations.
